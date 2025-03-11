@@ -1,8 +1,5 @@
 # Text-Classification-PyTorch
 "PyTorch-based text classification model with synthetic data, evaluation, and visualization."
-# Text Classification Using PyTorch (Google Colab)
-
-This project is a beginner-friendly text classification model built using PyTorch. It classifies text data into categories using a simple neural network model.
 
 ## Features
 ✅ Synthetic dataset generation  
